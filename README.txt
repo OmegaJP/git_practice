@@ -1,6 +1,6 @@
 V.1.0
 
-Hello Git and Github, my name is JP Clavijo, and is a pleasure to be here.
+Hello Git and Github, my name is JP Clavijo, and it is a pleasure to be here.
 Getting started with learning the basics. I'll upload this README.txt
 every now and then to talk about my progress as a code scientist.
 
