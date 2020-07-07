@@ -1,4 +1,3 @@
-python
 print(4)
 type('Hello World!')
 type(5)
