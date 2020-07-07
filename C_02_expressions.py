@@ -1,7 +1,9 @@
 print(4)
-type('Hello World!')
-type(5)
-type(7.9)
+print(type(4))
+print('Hello World!')
+print(type('Hello World!'))
+print(7.9)
+print(type(7.9))
 n=17
 print(n)
 
@@ -9,7 +11,8 @@ print(n)
 
 x=5
 y=x+1
-print (y)
+print('x =', x)
+print ('y =', y)
 
 # quotients and remainders
 
