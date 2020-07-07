@@ -1,5 +1,4 @@
-python
-print('4')
+print(4)
 type('Hello World!')
 type(5)
 type(7.9)
