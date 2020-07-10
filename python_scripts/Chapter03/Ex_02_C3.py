@@ -7,5 +7,5 @@ try :
         pay= float(hours)*float(rate)
         print('Your pay is of: ', pay)
 except :
-print('Please enter a correct number')
-quit()
+    print('Please enter a correct number')
+    quit()
