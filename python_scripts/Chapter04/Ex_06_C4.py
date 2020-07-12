@@ -8,8 +8,8 @@ def calculate_salary():
         else :
             pay= float(hours)*float(rate)
             print('Your pay is of: ', pay)
-        except :
+    except :
             print('Please enter a correct number')
             quit()
-            
+
 calculate_salary()
