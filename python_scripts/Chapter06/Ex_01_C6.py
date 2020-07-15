@@ -3,6 +3,7 @@
 word=input('Please enter word: ')
 n=0
 index=len(word)-1
+print(index)
 while index < -1 :
     letter=word[index]
     print(letter)
