@@ -1,3 +1,5 @@
+#Script runs a program that asks numeric values and returns the number of integers and the average of those integers
+
 num = 0
 tot = 0.0
 while True :
