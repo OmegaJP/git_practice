@@ -13,3 +13,9 @@ V.1.2
 
 Learning how to code and practicing Python. I'm actually uploading Python scripts
 and uploading commits to a practice branch before merging them to the master branch.
+
+V.1.3
+
+I have recently decreased the commits to github as I'm certificating myself as a data scientist.
+I'm as of now coursing the data scientist path in coursera from IBM. In the meantime I'm experimenting
+sharing my work from the cloud service of IBM and linking it to GitHub. 
